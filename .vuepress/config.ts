@@ -10,7 +10,7 @@ export default defineUserConfig({
     logo: "/kgdw.jpg",
     author: "zyx",
     authorAvatar: "/kgdw.jpg",
-    docsRepo: "https://github.com/vuepress-reco/vuepress-theme-reco-next",
+    // docsRepo: "https://github.com/vuepress-reco/vuepress-theme-reco-next",
     docsBranch: "main",
     docsDir: "example",
     lastUpdatedText: "",
@@ -31,13 +31,13 @@ export default defineUserConfig({
       { text: "首页", link: "/" },
       { text: "生涯", link: "/categories/reco/1/" },
       { text: "技能", link: "/tags/tag1/1/" },
-      {
-        text: "其他",
-        children: [
-          { text: "vuepress-reco", link: "/docs/theme-reco/theme" },
-          { text: "vuepress-theme-reco", link: "/blogs/other/guide" },
-        ],
-      },
+      // {
+      //   text: "其他",
+      //   children: [
+      //     { text: "vuepress-reco", link: "/docs/theme-reco/theme" },
+      //     { text: "vuepress-theme-reco", link: "/blogs/other/guide" },
+      //   ],
+      // },
     ],
     // bulletin: {
     //   body: [

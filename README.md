@@ -8,13 +8,13 @@ modules:
 bannerBrand:
   bgImage: '/bg.svg'
   title: 欢迎来到我的世界
-  description: 一个在前端领域深耕一年的彩笔。
+  description: 一个在前端领域练习时常两年半的个人练习生。
   tagline: 我是一名Web前端工作者，面向于Vue和小程序方面，乐于接收新的技术，喜欢记录。我个人对于网站开发我有着浓厚的兴趣 , 喜欢用学习到的知识去设计与编写一些独特的网站。工作中会和后端 产品 ui进行高效沟通，及时完成工作需求，能够承受工作压力。工作之余经常总结新技术、新知识，并且记录在个人播客中。
   buttons:
     - { text: Guide, link: '/docs/guide/introduce' }
     - { text: Default Style, link: '/docs/style-default-api/introduce', type: 'plain' }
   socialLinks:
-    - { icon: 'LogoGithub', link: 'https://github.com/vuepress-reco/vuepress-theme-reco' }
+    # - { icon: 'LogoGithub', link: 'https://github.com/vuepress-reco/vuepress-theme-reco' }
 blog:
   socialLinks:
     # - { icon: 'LogoGithub', link: 'https://github.com/recoluan' }
@@ -38,4 +38,6 @@ actionLink: /views/other/about
 11. 熟练使用websocket及基于它所封装的socket io和sockjs来进行双向通信。
 12. 熟练使用typescript进行开发。
 13. 熟练使用nuxt进行服务端渲染.
+14. 了解three.js并可以进行简单开发.
+16. 了解blender 3d建模，进行简单操作.
 
